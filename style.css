@@ -1,0 +1,17 @@
+body {
+	font-family: Verdana;
+	color: #ccc;
+	text-shadow: 5px 5px 15px #000000;
+	text-transform: uppercase;
+	background: linear-gradient(to right, blue, green);
+	text-align: center;
+}
+
+input {
+	box-shadow: 5px 5px 15px #000000;
+	margin: 10px;
+}
+
+h4 {
+	text-transform: lowercase;
+}
